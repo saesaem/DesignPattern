@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<XMLdoc><Title>Greeting</Title><Body>
+<String>Monring and Day</String>
+<List>
+<Item>Good Morning!</Item>
+<Item>How are you?</Item>
+</List>
+<String>Night</String>
+<List>
+<Item>How are you?</Item>
+<Item>Good Night</Item>
+</List>
+</Body></XMLdoc>
